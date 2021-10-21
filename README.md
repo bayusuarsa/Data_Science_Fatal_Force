@@ -14,6 +14,7 @@ from collections import Counter
 
 The data for this project looks like this
 ![Capture](https://user-images.githubusercontent.com/82921056/138310789-c066e6c5-0a08-4447-adb8-e5eee78796e0.JPG)
+
 (Sorry couldn't screen shoot all the data)
 
 And lastly in my project this the visualization about Fatal Force
