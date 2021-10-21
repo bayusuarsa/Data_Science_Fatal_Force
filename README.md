@@ -17,6 +17,7 @@ The data for this project looks like this
 
 (Sorry couldn't screen shoot all the data)
 
+# Visualiztion Data
 And lastly in my project this the visualization about Fatal Force
 ![newplot](https://user-images.githubusercontent.com/82921056/138311085-79ebf904-e16c-436c-a02e-e669a10effcc.png)
 <!-- This one of my visualization -->
